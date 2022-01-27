@@ -32,7 +32,7 @@
 
 > Choose the Git Bash terminal profile
 
-## Configure Gitbash git-prompt.sh file
+## Configure Git Bash `git-prompt.sh` file
 
 - Windows: c:/program files/git/etc/profile.d/git-prompt.sh
 
