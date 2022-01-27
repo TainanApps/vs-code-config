@@ -19,6 +19,7 @@
   ![format-on-save](https://user-images.githubusercontent.com/98510717/151345843-d44697d0-01e8-4eeb-8274-49cf965b929f.png)
 
 - In the user JSON settings enter the following
+
   ![emmet-json](https://user-images.githubusercontent.com/98510717/151345770-4d466c48-acc5-42c3-a639-350bc749add7.png)
 
 ## Configure Gitbash git-prompt.sh file
