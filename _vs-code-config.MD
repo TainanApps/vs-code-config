@@ -22,7 +22,7 @@
 
   ![emmet-json](https://user-images.githubusercontent.com/98510717/151345770-4d466c48-acc5-42c3-a639-350bc749add7.png)
 
-## Set Gitbash as default terminal profile
+## Set Git Bash as default terminal profile
 
 > Shift+Ctrl+P (or Shift+Cmd+P) and then type in
 
