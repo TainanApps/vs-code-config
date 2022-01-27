@@ -13,16 +13,13 @@
 ## Settings (ctrl+,)
 
 - User settings, set the default to Prettier
-
-  ![default formatter](./default-formatter.png)
+  ![default-formatter](https://user-images.githubusercontent.com/98510717/151345509-c59d18ba-2034-4857-9f0c-58f48043c555.png)
 
 - User settings, set the format to on paste and save to on
-
-  ![format on save](./format-on-save.png)
+  ![format-on-save](https://user-images.githubusercontent.com/98510717/151345843-d44697d0-01e8-4eeb-8274-49cf965b929f.png)
 
 - In the user JSON settings enter the following
-
-  ![prettier-setttings](./emmet-json.png)
+  ![emmet-json](https://user-images.githubusercontent.com/98510717/151345770-4d466c48-acc5-42c3-a639-350bc749add7.png)
 
 ## Configure Gitbash git-prompt.sh file
 
