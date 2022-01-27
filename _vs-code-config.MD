@@ -1,4 +1,4 @@
-# VS Code Configuration
+# VS Code Configuration2
 
 ## Recommended Extensions
 
